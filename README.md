@@ -1,6 +1,7 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
-
-for self-checking their submission.
+Open the index.html file in your browser.
+Use the arrow keys to move the boy to the water while avoiding the bugs.
+Win by reaching the water, lose by running into a bug.
+When the player wins, the bugs speed up.
